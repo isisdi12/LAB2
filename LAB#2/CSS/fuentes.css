@@ -1,0 +1,39 @@
+@font-face{
+    font-family:barcade;
+    src: url(barcade.ttf)
+}
+
+@font-face{
+    font-family:KGOneMoreNight;
+    src: url(KGOneMoreNight.ttf)
+}
+
+@font-face{
+    font-family:BADABB__;
+    src: url(BADABB__.TTF)
+}
+
+.Logo{
+ font-family: barcade;
+}
+
+.fin2{
+    font-family: barcade;
+    color: #ebdbdb;
+   }
+.navigation ul li {
+    font-family: KGOneMoreNight;
+}
+
+h1{
+    font-family: barcade;
+    color: #ebdbdb;
+    letter-spacing: 8px;
+}
+
+h2{
+    font-family: barcade;
+    color: #e6dede;
+    letter-spacing: 8px;
+
+}
